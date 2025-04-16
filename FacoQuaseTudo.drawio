@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.1.3">
+  <diagram name="Página-1" id="F0mjqJRKOmlIH7Ps4_iq">
+    <mxGraphModel dx="2280" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-1" value="Edilson Ferro&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-2" value="Gerenciar Clientes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="30" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-3" value="Gerenciar Servicos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-4" value="Consultar Historico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="150" as="sourcePoint" />
+            <mxPoint x="239" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="180" as="sourcePoint" />
+            <mxPoint x="239" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="200" as="sourcePoint" />
+            <mxPoint x="239" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-8" value="Consultar Por Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-9" value="Consultar por Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-11" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.908;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdMSIGos3jwFuNKvkDX3-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="369" y="290" as="sourcePoint" />
+            <mxPoint x="459" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-12" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SdMSIGos3jwFuNKvkDX3-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="378" y="265" as="sourcePoint" />
+            <mxPoint x="459" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-19" value="Exportar Historico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-20" value="Edilson Ferro&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-21" value="Gerenciar Clientes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="549" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-22" value="Gerenciar Servicos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="810" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-23" value="Consultar Historico Servicos e Orçamentos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="930" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="136" y="660" as="sourcePoint" />
+            <mxPoint x="280" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="146" y="690" as="sourcePoint" />
+            <mxPoint x="256" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="136" y="710" as="sourcePoint" />
+            <mxPoint x="286" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-27" value="Consultar Por Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="890" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-28" value="Consultar por Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="970" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-29" value="Pode Usar" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.908;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdMSIGos3jwFuNKvkDX3-23" target="SdMSIGos3jwFuNKvkDX3-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="406" y="980" as="sourcePoint" />
+            <mxPoint x="496" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-30" value="Pode Usar" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SdMSIGos3jwFuNKvkDX3-23" target="SdMSIGos3jwFuNKvkDX3-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="415" y="955" as="sourcePoint" />
+            <mxPoint x="496" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-31" value="Exportar Historico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1050" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-32" value="Pode Usar" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.646;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.019;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdMSIGos3jwFuNKvkDX3-23" target="SdMSIGos3jwFuNKvkDX3-31">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="427" y="984" as="sourcePoint" />
+            <mxPoint x="496" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-33" value="Gerenciar Orçamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="640" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="SdMSIGos3jwFuNKvkDX3-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="700" as="sourcePoint" />
+            <mxPoint x="266" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-35" value="Pode Virar" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.76;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SdMSIGos3jwFuNKvkDX3-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="356" y="714" as="sourcePoint" />
+            <mxPoint x="435" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-43" value="Realiza Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="549" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.928;entryY=0.851;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SdMSIGos3jwFuNKvkDX3-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="670" as="sourcePoint" />
+            <mxPoint x="266" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-45" value="Recuperar Senha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="700" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-46" value="Pode Usar" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SdMSIGos3jwFuNKvkDX3-45">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-159" y="624" as="sourcePoint" />
+            <mxPoint x="-80" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-47" value="Realiza Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="39" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.928;entryY=0.851;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SdMSIGos3jwFuNKvkDX3-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="160" as="sourcePoint" />
+            <mxPoint x="266" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-49" value="Recuperar Senha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-50" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1.008;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SdMSIGos3jwFuNKvkDX3-49">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-159" y="114" as="sourcePoint" />
+            <mxPoint x="-80" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-51" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.023;entryY=0.282;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SdMSIGos3jwFuNKvkDX3-4" target="SdMSIGos3jwFuNKvkDX3-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="390" y="294" as="sourcePoint" />
+            <mxPoint x="469" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-52" value="Gerar Texto WhasApp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SdMSIGos3jwFuNKvkDX3-53" value="Pode usar" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.908;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="414" y="680" as="sourcePoint" />
+            <mxPoint x="530" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
